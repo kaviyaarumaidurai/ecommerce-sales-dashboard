@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,City,Product,Category,Quantity,Price,Total_Amount,Payment_Mode
+1001,24-01-2024,C139,Divya,Salem,Laptop,Electronics,1,55000,55000,Card
+1002,28-01-2024,C104,Prakash,Coimbatore,Mobile,Electronics,1,15000,15000,Cash
+1003,05-01-2024,C128,Asha,Chennai,Saree,Fashion,3,2500,7500,UPI
+1004,04-01-2024,C134,Karthik,Coimbatore,Mouse,Electronics,2,500,1000,UPI
+1005,31-01-2024,C119,Suresh,Madurai,Saree,Fashion,3,2500,7500,Card
+1006,18-01-2024,C131,Priya,Salem,Keyboard,Electronics,2,1200,2400,Cash
+1007,23-01-2024,C138,Revathi,Chennai,Mobile,Electronics,2,15000,30000,Net Banking
+1008,29-01-2024,C135,Nisha,Madurai,Sandals,Fashion,2,900,1800,Cash
+1009,22-01-2024,C123,Suresh,Salem,Mobile,Electronics,3,15000,45000,Cash
+1010,04-01-2024,C152,Nisha,Chennai,Sandals,Fashion,1,900,900,UPI
+1011,09-01-2024,C106,Senthil,Chennai,Kurti,Fashion,1,700,700,Cash
+1012,29-01-2024,C151,Ramesh,Coimbatore,Headphones,Electronics,3,800,2400,Net Banking
+1013,03-01-2024,C159,Priya,Trichy,Tablet,Electronics,1,22000,22000,UPI
+1014,23-01-2024,C151,Lakshmi,Bangalore,Headphones,Electronics,1,800,800,Card
+1015,09-01-2024,C105,Divya,Madurai,Sandals,Fashion,1,900,900,Cash
+1016,12-01-2024,C138,Suresh,Salem,Watch,Accessories,1,2000,2000,Cash
+1017,11-01-2024,C127,Senthil,Chennai,Tablet,Electronics,3,22000,66000,UPI
+1018,04-01-2024,C149,Prakash,Salem,Shoes,Fashion,1,1800,1800,Card
+1019,22-01-2024,C130,Manoj,Coimbatore,Handbag,Fashion,1,1600,1600,Card
+1020,03-01-2024,C105,Karthik,Coimbatore,Sandals,Fashion,3,900,2700,Net Banking
+1021,04-01-2024,C115,Meena,Chennai,Keyboard,Electronics,2,1200,2400,Card
+1022,15-01-2024,C141,Revathi,Bangalore,Tshirt,Fashion,2,600,1200,Cash
+1023,11-01-2024,C126,Divya,Madurai,Mouse,Electronics,3,500,1500,Net Banking
+1024,08-01-2024,C157,Nisha,Chennai,Saree,Fashion,2,2500,5000,UPI
+1025,18-01-2024,C103,Lakshmi,Madurai,Sandals,Fashion,3,900,2700,Net Banking
+1026,07-01-2024,C123,Priya,Trichy,Watch,Accessories,1,2000,2000,Net Banking
+1027,21-01-2024,C114,Arun,Salem,Shoes,Fashion,1,1800,1800,UPI
+1028,02-01-2024,C152,Vignesh,Coimbatore,Handbag,Fashion,2,1600,3200,Card
+1029,10-01-2024,C132,Ravi,Salem,Headphones,Electronics,2,800,1600,Cash
+1030,10-01-2024,C142,Anitha,Madurai,Tshirt,Fashion,3,600,1800,Net Banking
+1031,27-01-2024,C122,Revathi,Bangalore,Headphones,Electronics,3,800,2400,Net Banking
+1032,31-01-2024,C151,Nisha,Salem,Tablet,Electronics,1,22000,22000,Card
+1033,19-01-2024,C144,Asha,Chennai,Power Bank,Electronics,3,1500,4500,Card
+1034,11-01-2024,C124,Nisha,Salem,Tshirt,Fashion,1,600,600,Card
+1035,06-01-2024,C154,Anitha,Coimbatore,Laptop,Electronics,3,55000,165000,UPI
+1036,26-01-2024,C141,Ravi,Bangalore,Tablet,Electronics,2,22000,44000,UPI
+1037,25-01-2024,C157,Suresh,Chennai,Mouse,Electronics,1,500,500,Card
+1038,06-01-2024,C125,Lakshmi,Trichy,Power Bank,Electronics,3,1500,4500,Cash
+1039,30-01-2024,C142,Meena,Trichy,Watch,Accessories,3,2000,6000,Card
+1040,22-01-2024,C139,Revathi,Chennai,Watch,Accessories,3,2000,6000,UPI
+1041,20-01-2024,C141,Suresh,Coimbatore,Keyboard,Electronics,1,1200,1200,Card
+1042,15-01-2024,C150,Meena,Trichy,Kurti,Fashion,2,700,1400,Cash
+1043,11-01-2024,C103,Meena,Trichy,Saree,Fashion,2,2500,5000,Card
+1044,04-01-2024,C145,Ramesh,Coimbatore,Handbag,Fashion,1,1600,1600,Card
+1045,14-01-2024,C126,Prakash,Chennai,Mobile,Electronics,1,15000,15000,Cash
+1046,13-01-2024,C126,Ravi,Madurai,Shoes,Fashion,1,1800,1800,Cash
+1047,16-01-2024,C134,Ravi,Madurai,Tablet,Electronics,3,22000,66000,UPI
+1048,14-01-2024,C105,Karthik,Madurai,Keyboard,Electronics,2,1200,2400,Cash
+1049,21-01-2024,C101,Revathi,Chennai,Laptop,Electronics,3,55000,165000,UPI
+1050,16-01-2024,C109,Ramesh,Chennai,Saree,Fashion,1,2500,2500,UPI
+1051,12-01-2024,C159,Karthik,Coimbatore,Mouse,Electronics,3,500,1500,UPI
+1052,02-01-2024,C107,Suresh,Chennai,Mouse,Electronics,2,500,1000,Net Banking
+1053,11-01-2024,C125,Manoj,Madurai,Shoes,Fashion,3,1800,5400,UPI
+1054,26-01-2024,C145,Arun,Madurai,Shoes,Fashion,2,1800,3600,Net Banking
+1055,11-01-2024,C129,Manoj,Trichy,Mobile,Electronics,1,15000,15000,Card
+1056,09-01-2024,C130,Asha,Bangalore,Laptop,Electronics,2,55000,110000,Card
+1057,29-01-2024,C159,Deepa,Trichy,Kurti,Fashion,1,700,700,UPI
+1058,02-01-2024,C110,Revathi,Chennai,Power Bank,Electronics,2,1500,3000,Net Banking
+1059,02-01-2024,C130,Ravi,Trichy,Shoes,Fashion,1,1800,1800,Card
+1060,26-01-2024,C155,Deepa,Chennai,Mobile,Electronics,3,15000,45000,UPI
+1061,25-01-2024,C139,Anitha,Trichy,Keyboard,Electronics,1,1200,1200,Cash
+1062,25-01-2024,C124,Anitha,Salem,Mobile,Electronics,1,15000,15000,Net Banking
+1063,15-01-2024,C149,Suresh,Chennai,Kurti,Fashion,2,700,1400,UPI
+1064,20-01-2024,C130,Revathi,Salem,Headphones,Electronics,3,800,2400,Cash
+1065,14-01-2024,C154,Manoj,Coimbatore,Power Bank,Electronics,1,1500,1500,Cash
+1066,04-01-2024,C108,Priya,Madurai,Laptop,Electronics,3,55000,165000,UPI
+1067,05-01-2024,C153,Suresh,Madurai,Mobile,Electronics,3,15000,45000,Net Banking
+1068,18-01-2024,C130,Arun,Bangalore,Shoes,Fashion,2,1800,3600,Card
+1069,08-01-2024,C159,Deepa,Salem,Sandals,Fashion,3,900,2700,Net Banking
+1070,29-01-2024,C126,Vignesh,Bangalore,Sandals,Fashion,1,900,900,Cash
+1071,08-01-2024,C124,Anitha,Salem,Mobile,Electronics,2,15000,30000,Card
+1072,30-01-2024,C115,Lakshmi,Trichy,Power Bank,Electronics,2,1500,3000,Cash
+1073,08-01-2024,C126,Prakash,Bangalore,Laptop,Electronics,3,55000,165000,Card
+1074,26-01-2024,C132,Revathi,Chennai,Sandals,Fashion,3,900,2700,UPI
+1075,18-01-2024,C127,Deepa,Salem,Tshirt,Fashion,3,600,1800,Card
+1076,12-01-2024,C118,Karthik,Trichy,Laptop,Electronics,1,55000,55000,Net Banking
+1077,17-01-2024,C106,Kavitha,Chennai,Mouse,Electronics,2,500,1000,Net Banking
+1078,08-01-2024,C111,Anitha,Coimbatore,Kurti,Fashion,1,700,700,Cash
+1079,29-01-2024,C119,Asha,Madurai,Tablet,Electronics,3,22000,66000,Cash
+1080,25-01-2024,C136,Senthil,Madurai,Mouse,Electronics,3,500,1500,Net Banking
+1081,09-01-2024,C156,Prakash,Bangalore,Sandals,Fashion,1,900,900,Card
+1082,16-01-2024,C112,Lakshmi,Trichy,Sandals,Fashion,2,900,1800,Net Banking
+1083,24-01-2024,C158,Mohan,Chennai,Kurti,Fashion,1,700,700,Net Banking
+1084,22-01-2024,C121,Karthik,Trichy,Mobile,Electronics,3,15000,45000,Cash
+1085,15-01-2024,C125,Suresh,Madurai,Shoes,Fashion,3,1800,5400,Net Banking
+1086,27-01-2024,C147,Kavitha,Coimbatore,Mouse,Electronics,2,500,1000,UPI
+1087,11-01-2024,C160,Divya,Salem,Keyboard,Electronics,2,1200,2400,Cash
+1088,21-01-2024,C120,Nisha,Salem,Mouse,Electronics,3,500,1500,Cash
+1089,02-01-2024,C158,Senthil,Trichy,Saree,Fashion,2,2500,5000,UPI
+1090,28-01-2024,C121,Manoj,Madurai,Sandals,Fashion,2,900,1800,Net Banking
+1091,27-01-2024,C134,Anitha,Salem,Shoes,Fashion,2,1800,3600,Cash
+1092,28-01-2024,C134,Prakash,Salem,Mouse,Electronics,2,500,1000,UPI
+1093,19-01-2024,C136,Prakash,Bangalore,Watch,Accessories,2,2000,4000,Card
+1094,03-01-2024,C140,Suresh,Trichy,Keyboard,Electronics,3,1200,3600,Card
+1095,02-01-2024,C143,Revathi,Salem,Saree,Fashion,1,2500,2500,Card
+1096,08-01-2024,C119,Revathi,Madurai,Handbag,Fashion,2,1600,3200,Card
+1097,03-01-2024,C114,Lakshmi,Salem,Watch,Accessories,1,2000,2000,Card
+1098,14-01-2024,C150,Karthik,Trichy,Kurti,Fashion,1,700,700,Cash
+1099,26-01-2024,C114,Prakash,Trichy,Saree,Fashion,3,2500,7500,UPI
+1100,06-01-2024,C115,Arun,Salem,Handbag,Fashion,1,1600,1600,Net Banking
+1101,04-01-2024,C121,Karthik,Madurai,Saree,Fashion,1,2500,2500,Card
+1102,01-01-2024,C139,Vignesh,Bangalore,Shoes,Fashion,3,1800,5400,Card
+1103,14-01-2024,C129,Asha,Coimbatore,Mouse,Electronics,3,500,1500,Net Banking
+1104,29-01-2024,C108,Prakash,Bangalore,Laptop,Electronics,2,55000,110000,UPI
+1105,12-01-2024,C146,Ramesh,Chennai,Kurti,Fashion,2,700,1400,Card
+1106,02-01-2024,C108,Prakash,Bangalore,Shoes,Fashion,2,1800,3600,Cash
+1107,23-01-2024,C120,Divya,Trichy,Tablet,Electronics,2,22000,44000,Net Banking
+1108,17-01-2024,C160,Manoj,Salem,Laptop,Electronics,3,55000,165000,Card
+1109,01-01-2024,C136,Manoj,Bangalore,Power Bank,Electronics,1,1500,1500,Card
+1110,21-01-2024,C124,Suresh,Chennai,Saree,Fashion,3,2500,7500,Net Banking
+1111,12-01-2024,C102,Suresh,Coimbatore,Mouse,Electronics,3,500,1500,Net Banking
+1112,11-01-2024,C106,Revathi,Madurai,Power Bank,Electronics,1,1500,1500,Card
+1113,30-01-2024,C107,Prakash,Bangalore,Tshirt,Fashion,3,600,1800,Net Banking
+1114,18-01-2024,C160,Nisha,Chennai,Handbag,Fashion,1,1600,1600,Cash
+1115,20-01-2024,C130,Meena,Coimbatore,Saree,Fashion,3,2500,7500,Net Banking
+1116,04-01-2024,C116,Manoj,Salem,Keyboard,Electronics,3,1200,3600,Card
+1117,31-01-2024,C159,Manoj,Coimbatore,Laptop,Electronics,1,55000,55000,Net Banking
+1118,28-01-2024,C144,Meena,Trichy,Kurti,Fashion,2,700,1400,UPI
+1119,26-01-2024,C142,Ravi,Madurai,Headphones,Electronics,2,800,1600,Cash
+1120,07-01-2024,C101,Kavitha,Trichy,Tshirt,Fashion,2,600,1200,Card
+1121,30-01-2024,C107,Nisha,Chennai,Power Bank,Electronics,2,1500,3000,UPI
+1122,19-01-2024,C154,Manoj,Coimbatore,Mouse,Electronics,1,500,500,Cash
+1123,26-01-2024,C115,Ravi,Coimbatore,Handbag,Fashion,3,1600,4800,Card
+1124,18-01-2024,C156,Ramesh,Bangalore,Kurti,Fashion,3,700,2100,UPI
+1125,23-01-2024,C107,Prakash,Bangalore,Laptop,Electronics,2,55000,110000,Card
+1126,26-01-2024,C148,Divya,Coimbatore,Tablet,Electronics,1,22000,22000,UPI
+1127,25-01-2024,C104,Senthil,Chennai,Headphones,Electronics,1,800,800,Cash
+1128,19-01-2024,C115,Kavitha,Madurai,Handbag,Fashion,2,1600,3200,Card
+1129,15-01-2024,C150,Divya,Trichy,Power Bank,Electronics,1,1500,1500,Card
+1130,30-01-2024,C121,Arun,Salem,Watch,Accessories,3,2000,6000,Cash
+1131,02-01-2024,C103,Priya,Bangalore,Shoes,Fashion,3,1800,5400,Card
+1132,12-01-2024,C103,Vignesh,Madurai,Saree,Fashion,1,2500,2500,UPI
+1133,02-01-2024,C118,Senthil,Madurai,Laptop,Electronics,3,55000,165000,Net Banking
+1134,09-01-2024,C142,Anitha,Salem,Mouse,Electronics,3,500,1500,Net Banking
+1135,27-01-2024,C103,Mohan,Madurai,Tablet,Electronics,2,22000,44000,Cash
+1136,01-01-2024,C156,Prakash,Chennai,Tablet,Electronics,3,22000,66000,Cash
+1137,10-01-2024,C130,Priya,Chennai,Saree,Fashion,1,2500,2500,Net Banking
+1138,23-01-2024,C123,Vignesh,Bangalore,Handbag,Fashion,2,1600,3200,Net Banking
+1139,01-01-2024,C110,Vignesh,Salem,Sandals,Fashion,1,900,900,UPI
+1140,27-01-2024,C143,Asha,Salem,Sandals,Fashion,1,900,900,UPI
+1141,13-01-2024,C146,Arun,Coimbatore,Sandals,Fashion,2,900,1800,Net Banking
+1142,20-01-2024,C118,Arun,Bangalore,Laptop,Electronics,2,55000,110000,Card
+1143,31-01-2024,C142,Suresh,Chennai,Laptop,Electronics,1,55000,55000,Card
+1144,13-01-2024,C104,Deepa,Coimbatore,Laptop,Electronics,2,55000,110000,Cash
+1145,25-01-2024,C149,Divya,Chennai,Tablet,Electronics,2,22000,44000,Net Banking
+1146,12-01-2024,C160,Suresh,Salem,Mobile,Electronics,2,15000,30000,Card
+1147,20-01-2024,C126,Lakshmi,Madurai,Laptop,Electronics,2,55000,110000,UPI
+1148,15-01-2024,C102,Prakash,Madurai,Mouse,Electronics,1,500,500,Cash
+1149,20-01-2024,C129,Divya,Salem,Keyboard,Electronics,2,1200,2400,UPI
+1150,09-01-2024,C115,Priya,Bangalore,Saree,Fashion,1,2500,2500,UPI
+1151,04-01-2024,C134,Ramesh,Coimbatore,Power Bank,Electronics,3,1500,4500,Cash
+1152,08-01-2024,C112,Karthik,Chennai,Saree,Fashion,3,2500,7500,UPI
+1153,05-01-2024,C130,Meena,Bangalore,Laptop,Electronics,2,55000,110000,UPI
+1154,09-01-2024,C117,Deepa,Bangalore,Headphones,Electronics,2,800,1600,Cash
+1155,10-01-2024,C108,Ravi,Salem,Mouse,Electronics,3,500,1500,Card
+1156,05-01-2024,C160,Senthil,Trichy,Keyboard,Electronics,3,1200,3600,Net Banking
+1157,11-01-2024,C114,Senthil,Coimbatore,Tshirt,Fashion,2,600,1200,Net Banking
+1158,02-01-2024,C144,Lakshmi,Chennai,Kurti,Fashion,3,700,2100,UPI
+1159,30-01-2024,C135,Kavitha,Trichy,Handbag,Fashion,2,1600,3200,Card
+1160,13-01-2024,C113,Nisha,Salem,Sandals,Fashion,2,900,1800,Card
+1161,13-01-2024,C124,Ramesh,Salem,Kurti,Fashion,1,700,700,Cash
+1162,26-01-2024,C131,Vignesh,Chennai,Handbag,Fashion,3,1600,4800,UPI
+1163,02-01-2024,C118,Ramesh,Trichy,Laptop,Electronics,1,55000,55000,Card
+1164,17-01-2024,C116,Divya,Bangalore,Saree,Fashion,1,2500,2500,Card
+1165,29-01-2024,C159,Nisha,Madurai,Power Bank,Electronics,3,1500,4500,Card
+1166,18-01-2024,C119,Nisha,Bangalore,Sandals,Fashion,1,900,900,UPI
+1167,28-01-2024,C139,Revathi,Bangalore,Saree,Fashion,1,2500,2500,Net Banking
+1168,01-01-2024,C107,Deepa,Chennai,Power Bank,Electronics,2,1500,3000,Net Banking
+1169,28-01-2024,C105,Senthil,Madurai,Sandals,Fashion,1,900,900,UPI
+1170,25-01-2024,C158,Revathi,Trichy,Sandals,Fashion,3,900,2700,Net Banking
+1171,19-01-2024,C117,Mohan,Bangalore,Shoes,Fashion,1,1800,1800,UPI
+1172,25-01-2024,C149,Ravi,Chennai,Mouse,Electronics,2,500,1000,Net Banking
+1173,21-01-2024,C144,Priya,Bangalore,Power Bank,Electronics,1,1500,1500,UPI
+1174,01-01-2024,C141,Lakshmi,Bangalore,Tablet,Electronics,3,22000,66000,Card
+1175,09-01-2024,C128,Ravi,Salem,Keyboard,Electronics,2,1200,2400,Cash
+1176,16-01-2024,C132,Prakash,Trichy,Shoes,Fashion,1,1800,1800,UPI
+1177,26-01-2024,C110,Karthik,Trichy,Mobile,Electronics,3,15000,45000,Cash
+1178,07-01-2024,C131,Priya,Coimbatore,Saree,Fashion,1,2500,2500,Card
+1179,28-01-2024,C159,Ravi,Salem,Shoes,Fashion,2,1800,3600,UPI
+1180,24-01-2024,C113,Mohan,Chennai,Shoes,Fashion,3,1800,5400,UPI
+1181,31-01-2024,C134,Ramesh,Chennai,Mouse,Electronics,3,500,1500,Net Banking
+1182,14-01-2024,C106,Karthik,Madurai,Mouse,Electronics,3,500,1500,Cash
+1183,15-01-2024,C160,Ravi,Madurai,Laptop,Electronics,2,55000,110000,Card
+1184,17-01-2024,C116,Ravi,Salem,Sandals,Fashion,3,900,2700,UPI
+1185,11-01-2024,C129,Karthik,Trichy,Handbag,Fashion,1,1600,1600,UPI
+1186,14-01-2024,C131,Meena,Bangalore,Shoes,Fashion,3,1800,5400,Cash
+1187,05-01-2024,C108,Ramesh,Trichy,Laptop,Electronics,1,55000,55000,Card
+1188,30-01-2024,C128,Ramesh,Salem,Mouse,Electronics,2,500,1000,Card
+1189,10-01-2024,C153,Arun,Bangalore,Power Bank,Electronics,3,1500,4500,UPI
+1190,02-01-2024,C121,Meena,Bangalore,Power Bank,Electronics,1,1500,1500,UPI
+1191,14-01-2024,C157,Revathi,Madurai,Power Bank,Electronics,2,1500,3000,Cash
+1192,28-01-2024,C109,Prakash,Madurai,Saree,Fashion,1,2500,2500,UPI
+1193,16-01-2024,C135,Kavitha,Coimbatore,Watch,Accessories,1,2000,2000,Cash
+1194,27-01-2024,C119,Meena,Madurai,Tablet,Electronics,1,22000,22000,UPI
+1195,05-01-2024,C154,Karthik,Trichy,Saree,Fashion,3,2500,7500,Cash
+1196,24-01-2024,C121,Suresh,Bangalore,Power Bank,Electronics,1,1500,1500,Net Banking
+1197,14-01-2024,C133,Asha,Trichy,Tablet,Electronics,1,22000,22000,Cash
+1198,03-01-2024,C159,Senthil,Chennai,Kurti,Fashion,3,700,2100,Card
+1199,14-01-2024,C132,Asha,Salem,Keyboard,Electronics,3,1200,3600,Net Banking
+1200,20-01-2024,C112,Divya,Madurai,Kurti,Fashion,2,700,1400,Card
+1201,08-01-2024,C120,Prakash,Bangalore,Tablet,Electronics,2,22000,44000,UPI
+1202,20-01-2024,C145,Ravi,Salem,Headphones,Electronics,3,800,2400,Cash
+1203,03-01-2024,C140,Asha,Coimbatore,Mobile,Electronics,1,15000,15000,UPI
+1204,22-01-2024,C139,Anitha,Coimbatore,Mobile,Electronics,2,15000,30000,Net Banking
+1205,08-01-2024,C156,Arun,Coimbatore,Headphones,Electronics,3,800,2400,UPI
+1206,03-01-2024,C108,Prakash,Chennai,Shoes,Fashion,3,1800,5400,Net Banking
+1207,08-01-2024,C138,Divya,Madurai,Sandals,Fashion,1,900,900,Net Banking
+1208,10-01-2024,C137,Nisha,Salem,Tablet,Electronics,3,22000,66000,UPI
+1209,14-01-2024,C159,Nisha,Coimbatore,Watch,Accessories,2,2000,4000,Card
+1210,24-01-2024,C107,Arun,Coimbatore,Power Bank,Electronics,3,1500,4500,Cash
+1211,29-01-2024,C130,Vignesh,Chennai,Headphones,Electronics,2,800,1600,Cash
+1212,24-01-2024,C117,Divya,Chennai,Shoes,Fashion,2,1800,3600,Cash
+1213,03-01-2024,C108,Asha,Coimbatore,Mobile,Electronics,3,15000,45000,Net Banking
+1214,26-01-2024,C127,Vignesh,Chennai,Kurti,Fashion,2,700,1400,Net Banking
+1215,12-01-2024,C143,Manoj,Coimbatore,Saree,Fashion,3,2500,7500,Card
+1216,31-01-2024,C120,Kavitha,Salem,Handbag,Fashion,3,1600,4800,Net Banking
+1217,03-01-2024,C155,Kavitha,Chennai,Tshirt,Fashion,1,600,600,Net Banking
+1218,11-01-2024,C155,Divya,Chennai,Saree,Fashion,1,2500,2500,Net Banking
+1219,09-01-2024,C153,Manoj,Madurai,Handbag,Fashion,1,1600,1600,UPI
+1220,24-01-2024,C137,Karthik,Chennai,Saree,Fashion,3,2500,7500,UPI
+1221,28-01-2024,C139,Vignesh,Chennai,Headphones,Electronics,3,800,2400,Net Banking
+1222,02-01-2024,C131,Karthik,Chennai,Headphones,Electronics,1,800,800,Cash
+1223,19-01-2024,C108,Vignesh,Bangalore,Keyboard,Electronics,2,1200,2400,Cash
+1224,23-01-2024,C137,Nisha,Salem,Sandals,Fashion,1,900,900,UPI
+1225,01-01-2024,C124,Kavitha,Madurai,Keyboard,Electronics,1,1200,1200,Card
+1226,10-01-2024,C140,Revathi,Chennai,Shoes,Fashion,3,1800,5400,UPI
+1227,31-01-2024,C116,Nisha,Trichy,Headphones,Electronics,2,800,1600,Net Banking
+1228,25-01-2024,C125,Asha,Trichy,Handbag,Fashion,1,1600,1600,Card
+1229,19-01-2024,C127,Arun,Coimbatore,Headphones,Electronics,2,800,1600,Net Banking
+1230,04-01-2024,C154,Prakash,Chennai,Watch,Accessories,2,2000,4000,Cash
+1231,20-01-2024,C125,Manoj,Bangalore,Watch,Accessories,2,2000,4000,Cash
+1232,07-01-2024,C113,Kavitha,Bangalore,Watch,Accessories,3,2000,6000,Card
+1233,31-01-2024,C144,Asha,Trichy,Laptop,Electronics,1,55000,55000,UPI
+1234,25-01-2024,C122,Manoj,Salem,Mouse,Electronics,3,500,1500,Card
+1235,11-01-2024,C134,Senthil,Madurai,Headphones,Electronics,3,800,2400,Net Banking
+1236,23-01-2024,C118,Priya,Salem,Saree,Fashion,1,2500,2500,Card
+1237,11-01-2024,C147,Mohan,Chennai,Kurti,Fashion,1,700,700,Card
+1238,01-01-2024,C151,Arun,Chennai,Mouse,Electronics,1,500,500,Card
+1239,19-01-2024,C132,Karthik,Bangalore,Power Bank,Electronics,2,1500,3000,UPI
+1240,26-01-2024,C102,Prakash,Trichy,Shoes,Fashion,3,1800,5400,Net Banking
+1241,13-01-2024,C152,Ravi,Madurai,Saree,Fashion,2,2500,5000,UPI
+1242,23-01-2024,C140,Karthik,Chennai,Laptop,Electronics,1,55000,55000,UPI
+1243,25-01-2024,C132,Ravi,Madurai,Power Bank,Electronics,3,1500,4500,Net Banking
+1244,10-01-2024,C149,Ravi,Madurai,Saree,Fashion,2,2500,5000,Cash
+1245,08-01-2024,C152,Nisha,Salem,Kurti,Fashion,1,700,700,UPI
+1246,10-01-2024,C107,Karthik,Trichy,Keyboard,Electronics,2,1200,2400,Net Banking
+1247,17-01-2024,C154,Asha,Trichy,Sandals,Fashion,3,900,2700,Net Banking
+1248,10-01-2024,C144,Kavitha,Chennai,Power Bank,Electronics,2,1500,3000,Cash
+1249,22-01-2024,C111,Deepa,Salem,Power Bank,Electronics,1,1500,1500,Cash
+1250,04-01-2024,C139,Ramesh,Bangalore,Power Bank,Electronics,3,1500,4500,Cash
+1251,16-01-2024,C111,Divya,Coimbatore,Tshirt,Fashion,3,600,1800,Net Banking
+1252,01-01-2024,C157,Manoj,Trichy,Sandals,Fashion,1,900,900,UPI
+1253,28-01-2024,C147,Suresh,Chennai,Tshirt,Fashion,3,600,1800,Cash
+1254,16-01-2024,C107,Deepa,Madurai,Handbag,Fashion,1,1600,1600,Net Banking
+1255,13-01-2024,C153,Suresh,Salem,Watch,Accessories,2,2000,4000,Card
+1256,24-01-2024,C138,Mohan,Chennai,Power Bank,Electronics,3,1500,4500,UPI
+1257,24-01-2024,C119,Priya,Chennai,Saree,Fashion,1,2500,2500,Cash
+1258,27-01-2024,C154,Karthik,Chennai,Headphones,Electronics,1,800,800,Card
+1259,01-01-2024,C126,Suresh,Bangalore,Handbag,Fashion,1,1600,1600,Card
+1260,26-01-2024,C151,Nisha,Salem,Tablet,Electronics,1,22000,22000,Card
+1261,18-01-2024,C155,Ravi,Madurai,Mobile,Electronics,3,15000,45000,UPI
+1262,30-01-2024,C113,Vignesh,Coimbatore,Saree,Fashion,1,2500,2500,Net Banking
+1263,20-01-2024,C113,Senthil,Madurai,Kurti,Fashion,3,700,2100,Card
+1264,28-01-2024,C141,Kavitha,Bangalore,Saree,Fashion,3,2500,7500,Net Banking
+1265,06-01-2024,C158,Mohan,Madurai,Power Bank,Electronics,3,1500,4500,UPI
+1266,07-01-2024,C129,Meena,Trichy,Headphones,Electronics,3,800,2400,Net Banking
+1267,15-01-2024,C143,Vignesh,Trichy,Mouse,Electronics,3,500,1500,Net Banking
+1268,06-01-2024,C133,Priya,Chennai,Mobile,Electronics,1,15000,15000,UPI
+1269,29-01-2024,C152,Priya,Madurai,Mouse,Electronics,3,500,1500,Card
+1270,24-01-2024,C157,Senthil,Madurai,Mouse,Electronics,2,500,1000,Cash
+1271,25-01-2024,C124,Meena,Bangalore,Kurti,Fashion,3,700,2100,Card
+1272,29-01-2024,C134,Anitha,Salem,Keyboard,Electronics,1,1200,1200,UPI
+1273,11-01-2024,C104,Lakshmi,Trichy,Mobile,Electronics,1,15000,15000,Net Banking
+1274,30-01-2024,C112,Kavitha,Bangalore,Watch,Accessories,1,2000,2000,Net Banking
+1275,11-01-2024,C105,Asha,Bangalore,Tablet,Electronics,1,22000,22000,UPI
+1276,14-01-2024,C150,Divya,Salem,Power Bank,Electronics,3,1500,4500,Cash
+1277,07-01-2024,C116,Deepa,Coimbatore,Tshirt,Fashion,1,600,600,Net Banking
+1278,15-01-2024,C115,Mohan,Madurai,Handbag,Fashion,2,1600,3200,Cash
+1279,19-01-2024,C137,Deepa,Salem,Saree,Fashion,1,2500,2500,Net Banking
+1280,19-01-2024,C135,Karthik,Coimbatore,Mouse,Electronics,2,500,1000,Card
+1281,15-01-2024,C129,Revathi,Salem,Saree,Fashion,2,2500,5000,Card
+1282,15-01-2024,C115,Meena,Bangalore,Kurti,Fashion,2,700,1400,Net Banking
+1283,01-01-2024,C115,Anitha,Coimbatore,Handbag,Fashion,3,1600,4800,Net Banking
+1284,21-01-2024,C126,Nisha,Chennai,Headphones,Electronics,3,800,2400,Net Banking
+1285,04-01-2024,C124,Karthik,Bangalore,Sandals,Fashion,1,900,900,UPI
+1286,13-01-2024,C147,Revathi,Madurai,Tshirt,Fashion,3,600,1800,Cash
+1287,11-01-2024,C125,Lakshmi,Trichy,Headphones,Electronics,1,800,800,Net Banking
+1288,16-01-2024,C115,Asha,Coimbatore,Shoes,Fashion,1,1800,1800,Card
+1289,22-01-2024,C122,Ramesh,Coimbatore,Kurti,Fashion,3,700,2100,Cash
+1290,25-01-2024,C132,Anitha,Coimbatore,Headphones,Electronics,3,800,2400,Cash
+1291,18-01-2024,C123,Revathi,Madurai,Watch,Accessories,1,2000,2000,Cash
+1292,15-01-2024,C112,Prakash,Madurai,Watch,Accessories,1,2000,2000,Card
+1293,08-01-2024,C118,Divya,Madurai,Shoes,Fashion,1,1800,1800,UPI
+1294,13-01-2024,C109,Ramesh,Bangalore,Tablet,Electronics,2,22000,44000,Cash
+1295,16-01-2024,C112,Ravi,Salem,Mobile,Electronics,1,15000,15000,Card
+1296,15-01-2024,C139,Priya,Salem,Sandals,Fashion,3,900,2700,UPI
+1297,01-01-2024,C116,Prakash,Madurai,Power Bank,Electronics,3,1500,4500,UPI
+1298,26-01-2024,C119,Revathi,Trichy,Laptop,Electronics,3,55000,165000,Net Banking
+1299,08-01-2024,C130,Ravi,Bangalore,Sandals,Fashion,1,900,900,UPI
+1300,22-01-2024,C118,Prakash,Bangalore,Tshirt,Fashion,3,600,1800,UPI
+1301,10-01-2024,C110,Senthil,Trichy,Laptop,Electronics,1,55000,55000,Net Banking
+1302,09-01-2024,C160,Divya,Madurai,Laptop,Electronics,1,55000,55000,UPI
+1303,19-01-2024,C149,Anitha,Salem,Power Bank,Electronics,2,1500,3000,Net Banking
+1304,29-01-2024,C128,Suresh,Chennai,Keyboard,Electronics,3,1200,3600,UPI
+1305,19-01-2024,C110,Lakshmi,Trichy,Tablet,Electronics,2,22000,44000,UPI
+1306,05-01-2024,C141,Suresh,Chennai,Watch,Accessories,2,2000,4000,Net Banking
+1307,28-01-2024,C104,Priya,Coimbatore,Power Bank,Electronics,2,1500,3000,Cash
+1308,19-01-2024,C114,Mohan,Bangalore,Shoes,Fashion,2,1800,3600,Cash
+1309,13-01-2024,C101,Kavitha,Bangalore,Saree,Fashion,1,2500,2500,Card
+1310,24-01-2024,C131,Vignesh,Chennai,Tshirt,Fashion,2,600,1200,Card
+1311,03-01-2024,C125,Karthik,Bangalore,Tablet,Electronics,3,22000,66000,Card
+1312,25-01-2024,C126,Deepa,Bangalore,Saree,Fashion,2,2500,5000,Net Banking
+1313,24-01-2024,C143,Asha,Trichy,Tshirt,Fashion,3,600,1800,Net Banking
+1314,14-01-2024,C150,Manoj,Madurai,Shoes,Fashion,3,1800,5400,Net Banking
+1315,14-01-2024,C125,Ravi,Madurai,Tshirt,Fashion,1,600,600,UPI
+1316,25-01-2024,C149,Prakash,Bangalore,Laptop,Electronics,1,55000,55000,Cash
+1317,03-01-2024,C145,Kavitha,Salem,Kurti,Fashion,1,700,700,Net Banking
+1318,09-01-2024,C103,Senthil,Bangalore,Headphones,Electronics,3,800,2400,Net Banking
+1319,13-01-2024,C131,Ramesh,Trichy,Mobile,Electronics,2,15000,30000,Cash
+1320,10-01-2024,C148,Divya,Madurai,Handbag,Fashion,3,1600,4800,Net Banking
+1321,28-01-2024,C130,Prakash,Chennai,Saree,Fashion,2,2500,5000,Cash
+1322,11-01-2024,C157,Vignesh,Madurai,Kurti,Fashion,1,700,700,Net Banking
+1323,08-01-2024,C142,Mohan,Chennai,Power Bank,Electronics,3,1500,4500,Cash
+1324,30-01-2024,C158,Priya,Coimbatore,Sandals,Fashion,3,900,2700,Net Banking
+1325,14-01-2024,C102,Prakash,Trichy,Laptop,Electronics,3,55000,165000,Cash
+1326,09-01-2024,C154,Lakshmi,Madurai,Saree,Fashion,3,2500,7500,Card
+1327,02-01-2024,C153,Deepa,Coimbatore,Sandals,Fashion,3,900,2700,Cash
+1328,03-01-2024,C140,Arun,Salem,Shoes,Fashion,1,1800,1800,Card
+1329,10-01-2024,C150,Mohan,Madurai,Sandals,Fashion,2,900,1800,Net Banking
+1330,11-01-2024,C140,Manoj,Salem,Laptop,Electronics,2,55000,110000,Card
+1331,14-01-2024,C144,Priya,Madurai,Sandals,Fashion,2,900,1800,Net Banking
+1332,12-01-2024,C154,Kavitha,Trichy,Shoes,Fashion,3,1800,5400,Net Banking
+1333,17-01-2024,C139,Divya,Salem,Laptop,Electronics,3,55000,165000,Cash
+1334,29-01-2024,C122,Kavitha,Trichy,Kurti,Fashion,1,700,700,Cash
+1335,19-01-2024,C147,Prakash,Bangalore,Mouse,Electronics,3,500,1500,Card
+1336,15-01-2024,C119,Anitha,Trichy,Mobile,Electronics,1,15000,15000,UPI
+1337,23-01-2024,C126,Manoj,Bangalore,Shoes,Fashion,2,1800,3600,Cash
+1338,25-01-2024,C159,Revathi,Trichy,Tshirt,Fashion,1,600,600,Net Banking
+1339,29-01-2024,C141,Divya,Trichy,Mouse,Electronics,2,500,1000,Card
+1340,07-01-2024,C147,Vignesh,Bangalore,Shoes,Fashion,2,1800,3600,Card
+1341,14-01-2024,C158,Anitha,Chennai,Saree,Fashion,3,2500,7500,UPI
+1342,20-01-2024,C105,Divya,Bangalore,Saree,Fashion,1,2500,2500,Cash
+1343,20-01-2024,C142,Prakash,Coimbatore,Laptop,Electronics,1,55000,55000,UPI
+1344,25-01-2024,C115,Meena,Bangalore,Keyboard,Electronics,3,1200,3600,Card
+1345,18-01-2024,C118,Revathi,Bangalore,Kurti,Fashion,1,700,700,Cash
+1346,08-01-2024,C106,Kavitha,Trichy,Keyboard,Electronics,2,1200,2400,Cash
+1347,21-01-2024,C160,Manoj,Salem,Headphones,Electronics,2,800,1600,Card
+1348,28-01-2024,C157,Deepa,Chennai,Headphones,Electronics,1,800,800,Net Banking
+1349,23-01-2024,C121,Nisha,Trichy,Tshirt,Fashion,2,600,1200,Card
+1350,18-01-2024,C131,Karthik,Madurai,Handbag,Fashion,3,1600,4800,Card
+1351,22-01-2024,C108,Arun,Bangalore,Mouse,Electronics,1,500,500,Card
+1352,06-01-2024,C101,Karthik,Bangalore,Handbag,Fashion,1,1600,1600,UPI
+1353,01-01-2024,C156,Mohan,Bangalore,Kurti,Fashion,1,700,700,Net Banking
+1354,24-01-2024,C116,Divya,Trichy,Laptop,Electronics,2,55000,110000,Net Banking
+1355,31-01-2024,C142,Lakshmi,Bangalore,Kurti,Fashion,1,700,700,Cash
+1356,24-01-2024,C159,Divya,Coimbatore,Kurti,Fashion,3,700,2100,Net Banking
+1357,18-01-2024,C124,Vignesh,Salem,Tshirt,Fashion,1,600,600,UPI
+1358,14-01-2024,C119,Senthil,Coimbatore,Mobile,Electronics,3,15000,45000,UPI
+1359,31-01-2024,C107,Manoj,Bangalore,Tablet,Electronics,2,22000,44000,Net Banking
+1360,13-01-2024,C136,Deepa,Madurai,Mouse,Electronics,1,500,500,Net Banking
+1361,31-01-2024,C131,Ravi,Trichy,Tablet,Electronics,1,22000,22000,Card
+1362,17-01-2024,C147,Suresh,Madurai,Mouse,Electronics,3,500,1500,Net Banking
+1363,28-01-2024,C105,Karthik,Coimbatore,Headphones,Electronics,2,800,1600,Cash
+1364,19-01-2024,C155,Kavitha,Trichy,Handbag,Fashion,1,1600,1600,Card
+1365,12-01-2024,C137,Asha,Trichy,Power Bank,Electronics,3,1500,4500,UPI
+1366,13-01-2024,C156,Ravi,Salem,Kurti,Fashion,2,700,1400,Cash
+1367,13-01-2024,C152,Suresh,Bangalore,Saree,Fashion,2,2500,5000,Card
+1368,27-01-2024,C143,Karthik,Trichy,Saree,Fashion,2,2500,5000,UPI
+1369,25-01-2024,C119,Prakash,Coimbatore,Headphones,Electronics,2,800,1600,Net Banking
+1370,09-01-2024,C151,Arun,Madurai,Saree,Fashion,3,2500,7500,UPI
+1371,11-01-2024,C132,Mohan,Madurai,Power Bank,Electronics,1,1500,1500,Net Banking
+1372,13-01-2024,C147,Revathi,Chennai,Watch,Accessories,2,2000,4000,Cash
+1373,07-01-2024,C142,Suresh,Trichy,Sandals,Fashion,1,900,900,UPI
+1374,06-01-2024,C124,Deepa,Trichy,Sandals,Fashion,3,900,2700,Card
+1375,15-01-2024,C150,Ramesh,Coimbatore,Headphones,Electronics,1,800,800,UPI
+1376,26-01-2024,C114,Deepa,Salem,Keyboard,Electronics,1,1200,1200,Cash
+1377,13-01-2024,C149,Suresh,Madurai,Power Bank,Electronics,1,1500,1500,Card
+1378,01-01-2024,C158,Nisha,Bangalore,Tablet,Electronics,2,22000,44000,Net Banking
+1379,05-01-2024,C124,Priya,Salem,Shoes,Fashion,1,1800,1800,Cash
+1380,27-01-2024,C117,Mohan,Bangalore,Shoes,Fashion,1,1800,1800,Cash
+1381,26-01-2024,C118,Arun,Salem,Handbag,Fashion,3,1600,4800,Cash
+1382,14-01-2024,C108,Senthil,Trichy,Mouse,Electronics,1,500,500,UPI
+1383,11-01-2024,C158,Suresh,Chennai,Shoes,Fashion,1,1800,1800,UPI
+1384,26-01-2024,C149,Vignesh,Chennai,Mouse,Electronics,3,500,1500,Card
+1385,20-01-2024,C147,Arun,Bangalore,Keyboard,Electronics,2,1200,2400,Card
+1386,26-01-2024,C121,Arun,Trichy,Saree,Fashion,2,2500,5000,Card
+1387,23-01-2024,C153,Nisha,Madurai,Saree,Fashion,3,2500,7500,Card
+1388,18-01-2024,C103,Meena,Bangalore,Watch,Accessories,1,2000,2000,UPI
+1389,17-01-2024,C155,Vignesh,Madurai,Sandals,Fashion,2,900,1800,Cash
+1390,24-01-2024,C122,Meena,Salem,Laptop,Electronics,2,55000,110000,UPI
+1391,19-01-2024,C151,Anitha,Trichy,Saree,Fashion,2,2500,5000,Net Banking
+1392,25-01-2024,C125,Asha,Bangalore,Mouse,Electronics,1,500,500,Net Banking
+1393,07-01-2024,C145,Deepa,Bangalore,Keyboard,Electronics,1,1200,1200,Cash
+1394,08-01-2024,C140,Asha,Madurai,Tshirt,Fashion,3,600,1800,Cash
+1395,25-01-2024,C137,Kavitha,Madurai,Shoes,Fashion,3,1800,5400,UPI
+1396,04-01-2024,C117,Lakshmi,Chennai,Sandals,Fashion,2,900,1800,Net Banking
+1397,15-01-2024,C133,Kavitha,Madurai,Headphones,Electronics,3,800,2400,Cash
+1398,22-01-2024,C131,Manoj,Madurai,Mobile,Electronics,2,15000,30000,Cash
+1399,01-01-2024,C135,Anitha,Salem,Kurti,Fashion,2,700,1400,UPI
+1400,22-01-2024,C142,Revathi,Madurai,Watch,Accessories,3,2000,6000,UPI
+1401,11-01-2024,C141,Ramesh,Bangalore,Laptop,Electronics,3,55000,165000,Cash
+1402,06-01-2024,C139,Anitha,Coimbatore,Mobile,Electronics,1,15000,15000,Cash
+1403,26-01-2024,C113,Suresh,Salem,Mouse,Electronics,1,500,500,Card
+1404,31-01-2024,C146,Revathi,Salem,Kurti,Fashion,2,700,1400,UPI
+1405,19-01-2024,C129,Mohan,Bangalore,Mobile,Electronics,2,15000,30000,Net Banking
+1406,26-01-2024,C158,Ramesh,Trichy,Handbag,Fashion,1,1600,1600,Card
+1407,26-01-2024,C140,Lakshmi,Coimbatore,Keyboard,Electronics,1,1200,1200,UPI
+1408,11-01-2024,C117,Ravi,Trichy,Headphones,Electronics,3,800,2400,Net Banking
+1409,25-01-2024,C126,Prakash,Coimbatore,Tablet,Electronics,3,22000,66000,Cash
+1410,20-01-2024,C116,Nisha,Coimbatore,Watch,Accessories,2,2000,4000,Card
+1411,05-01-2024,C138,Nisha,Salem,Handbag,Fashion,2,1600,3200,Net Banking
+1412,08-01-2024,C106,Arun,Trichy,Keyboard,Electronics,3,1200,3600,Cash
+1413,07-01-2024,C134,Kavitha,Chennai,Sandals,Fashion,3,900,2700,Cash
+1414,23-01-2024,C108,Revathi,Madurai,Handbag,Fashion,2,1600,3200,Net Banking
+1415,06-01-2024,C146,Senthil,Salem,Kurti,Fashion,2,700,1400,Net Banking
+1416,11-01-2024,C104,Nisha,Trichy,Kurti,Fashion,3,700,2100,Cash
+1417,26-01-2024,C148,Priya,Trichy,Tablet,Electronics,2,22000,44000,Cash
+1418,29-01-2024,C121,Mohan,Bangalore,Headphones,Electronics,2,800,1600,Cash
+1419,20-01-2024,C104,Meena,Coimbatore,Handbag,Fashion,1,1600,1600,Card
+1420,22-01-2024,C118,Ravi,Salem,Shoes,Fashion,1,1800,1800,UPI
+1421,24-01-2024,C103,Lakshmi,Madurai,Power Bank,Electronics,2,1500,3000,Net Banking
+1422,19-01-2024,C109,Arun,Madurai,Power Bank,Electronics,2,1500,3000,Cash
+1423,30-01-2024,C151,Priya,Madurai,Keyboard,Electronics,3,1200,3600,Card
+1424,29-01-2024,C149,Divya,Coimbatore,Kurti,Fashion,1,700,700,Net Banking
+1425,01-01-2024,C138,Revathi,Coimbatore,Headphones,Electronics,1,800,800,Cash
+1426,23-01-2024,C110,Priya,Coimbatore,Shoes,Fashion,1,1800,1800,Cash
+1427,23-01-2024,C116,Prakash,Trichy,Keyboard,Electronics,3,1200,3600,UPI
+1428,03-01-2024,C154,Anitha,Bangalore,Tshirt,Fashion,2,600,1200,Net Banking
+1429,20-01-2024,C120,Revathi,Coimbatore,Handbag,Fashion,2,1600,3200,UPI
+1430,04-01-2024,C125,Meena,Bangalore,Handbag,Fashion,1,1600,1600,Card
+1431,27-01-2024,C112,Nisha,Madurai,Power Bank,Electronics,2,1500,3000,Cash
+1432,23-01-2024,C151,Nisha,Chennai,Mouse,Electronics,1,500,500,Card
+1433,19-01-2024,C118,Deepa,Salem,Laptop,Electronics,1,55000,55000,Cash
+1434,26-01-2024,C151,Lakshmi,Bangalore,Headphones,Electronics,1,800,800,Net Banking
+1435,14-01-2024,C101,Senthil,Salem,Watch,Accessories,1,2000,2000,UPI
+1436,19-01-2024,C139,Lakshmi,Salem,Tshirt,Fashion,2,600,1200,Net Banking
+1437,17-01-2024,C104,Anitha,Madurai,Tshirt,Fashion,1,600,600,Cash
+1438,14-01-2024,C159,Revathi,Bangalore,Watch,Accessories,1,2000,2000,Net Banking
+1439,06-01-2024,C155,Revathi,Salem,Sandals,Fashion,1,900,900,UPI
+1440,10-01-2024,C120,Prakash,Salem,Mouse,Electronics,2,500,1000,UPI
+1441,04-01-2024,C152,Mohan,Chennai,Power Bank,Electronics,2,1500,3000,Card
+1442,24-01-2024,C127,Ravi,Bangalore,Watch,Accessories,2,2000,4000,Card
+1443,11-01-2024,C138,Nisha,Salem,Tshirt,Fashion,2,600,1200,UPI
+1444,25-01-2024,C126,Senthil,Bangalore,Sandals,Fashion,1,900,900,Net Banking
+1445,13-01-2024,C147,Anitha,Bangalore,Laptop,Electronics,2,55000,110000,Net Banking
+1446,06-01-2024,C108,Suresh,Coimbatore,Headphones,Electronics,2,800,1600,Card
+1447,06-01-2024,C141,Senthil,Coimbatore,Keyboard,Electronics,1,1200,1200,Net Banking
+1448,23-01-2024,C118,Nisha,Salem,Headphones,Electronics,2,800,1600,Card
+1449,16-01-2024,C156,Kavitha,Trichy,Mouse,Electronics,1,500,500,UPI
+1450,11-01-2024,C128,Asha,Salem,Watch,Accessories,2,2000,4000,Cash
+1451,04-01-2024,C129,Priya,Salem,Tshirt,Fashion,2,600,1200,Cash
+1452,16-01-2024,C148,Ramesh,Trichy,Handbag,Fashion,2,1600,3200,Net Banking
+1453,26-01-2024,C102,Manoj,Madurai,Tshirt,Fashion,2,600,1200,Card
+1454,12-01-2024,C124,Kavitha,Salem,Sandals,Fashion,2,900,1800,Card
+1455,12-01-2024,C108,Arun,Coimbatore,Tablet,Electronics,3,22000,66000,Card
+1456,23-01-2024,C140,Senthil,Bangalore,Kurti,Fashion,3,700,2100,UPI
+1457,13-01-2024,C107,Vignesh,Chennai,Handbag,Fashion,2,1600,3200,Cash
+1458,06-01-2024,C142,Meena,Madurai,Headphones,Electronics,3,800,2400,Net Banking
+1459,09-01-2024,C135,Deepa,Salem,Kurti,Fashion,2,700,1400,Net Banking
+1460,13-01-2024,C139,Meena,Bangalore,Saree,Fashion,2,2500,5000,UPI
+1461,07-01-2024,C155,Mohan,Chennai,Watch,Accessories,3,2000,6000,Card
+1462,30-01-2024,C104,Divya,Salem,Keyboard,Electronics,2,1200,2400,Card
+1463,27-01-2024,C101,Arun,Bangalore,Sandals,Fashion,2,900,1800,Card
+1464,25-01-2024,C109,Asha,Salem,Handbag,Fashion,3,1600,4800,UPI
+1465,04-01-2024,C103,Revathi,Chennai,Kurti,Fashion,2,700,1400,Card
+1466,23-01-2024,C158,Priya,Coimbatore,Mouse,Electronics,2,500,1000,UPI
+1467,06-01-2024,C112,Manoj,Trichy,Mouse,Electronics,1,500,500,UPI
+1468,22-01-2024,C107,Vignesh,Coimbatore,Headphones,Electronics,1,800,800,Net Banking
+1469,12-01-2024,C144,Manoj,Trichy,Watch,Accessories,1,2000,2000,UPI
+1470,09-01-2024,C131,Senthil,Chennai,Mouse,Electronics,3,500,1500,UPI
+1471,22-01-2024,C139,Deepa,Madurai,Headphones,Electronics,3,800,2400,Card
+1472,21-01-2024,C103,Deepa,Bangalore,Mouse,Electronics,3,500,1500,UPI
+1473,21-01-2024,C159,Asha,Salem,Mobile,Electronics,3,15000,45000,Cash
+1474,01-01-2024,C106,Ramesh,Salem,Handbag,Fashion,1,1600,1600,Cash
+1475,26-01-2024,C115,Divya,Salem,Tablet,Electronics,2,22000,44000,UPI
+1476,15-01-2024,C149,Senthil,Coimbatore,Sandals,Fashion,2,900,1800,Cash
+1477,02-01-2024,C159,Senthil,Bangalore,Headphones,Electronics,1,800,800,UPI
+1478,08-01-2024,C101,Mohan,Salem,Tshirt,Fashion,2,600,1200,Card
+1479,20-01-2024,C124,Prakash,Salem,Tablet,Electronics,3,22000,66000,Card
+1480,31-01-2024,C123,Suresh,Salem,Tshirt,Fashion,1,600,600,UPI
+1481,13-01-2024,C101,Meena,Bangalore,Headphones,Electronics,1,800,800,Net Banking
+1482,17-01-2024,C106,Mohan,Coimbatore,Power Bank,Electronics,3,1500,4500,Card
+1483,18-01-2024,C150,Revathi,Chennai,Sandals,Fashion,1,900,900,Net Banking
+1484,26-01-2024,C151,Priya,Madurai,Mobile,Electronics,1,15000,15000,UPI
+1485,29-01-2024,C108,Asha,Salem,Headphones,Electronics,3,800,2400,Cash
+1486,22-01-2024,C108,Prakash,Salem,Mouse,Electronics,1,500,500,Card
+1487,01-01-2024,C152,Deepa,Trichy,Shoes,Fashion,3,1800,5400,Card
+1488,25-01-2024,C111,Arun,Salem,Headphones,Electronics,2,800,1600,Cash
+1489,12-01-2024,C143,Divya,Madurai,Headphones,Electronics,2,800,1600,UPI
+1490,18-01-2024,C154,Senthil,Chennai,Handbag,Fashion,1,1600,1600,Card
+1491,11-01-2024,C152,Priya,Coimbatore,Mouse,Electronics,2,500,1000,UPI
+1492,01-01-2024,C111,Prakash,Madurai,Keyboard,Electronics,2,1200,2400,Card
+1493,05-01-2024,C131,Mohan,Bangalore,Mobile,Electronics,2,15000,30000,Cash
+1494,19-01-2024,C154,Nisha,Coimbatore,Sandals,Fashion,1,900,900,Net Banking
+1495,04-01-2024,C156,Ravi,Bangalore,Handbag,Fashion,1,1600,1600,Net Banking
+1496,30-01-2024,C123,Mohan,Trichy,Saree,Fashion,3,2500,7500,UPI
+1497,11-01-2024,C128,Vignesh,Chennai,Tablet,Electronics,3,22000,66000,Card
+1498,30-01-2024,C112,Asha,Madurai,Saree,Fashion,1,2500,2500,Net Banking
+1499,08-01-2024,C118,Prakash,Bangalore,Mobile,Electronics,3,15000,45000,UPI
+1500,30-01-2024,C155,Revathi,Trichy,Tablet,Electronics,2,22000,44000,UPI
