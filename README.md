@@ -91,6 +91,7 @@ Step 2: Open Dashboard
 2. Refresh the dataset if required
 3. Use filters to explore insights
 
+![Dashboard Screenshot](dashboard.png)   
 
 Business Value
 
@@ -118,3 +119,4 @@ Skills: MYSQL • Python • Power BI • Data Visualization • Business Analyt
 License
 
 This project is for educational and portfolio purposes.
+
