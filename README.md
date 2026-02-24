@@ -1,4 +1,4 @@
-E-Commerce Sales Performance Dashboard
+E-Commerce customer Analysis
 
 Executive Summary
 
@@ -192,5 +192,6 @@ Skills: MYSQL • Python • Power BI • Data Visualization • Business Analyt
 License
 
 This project is for educational and portfolio purposes.
+
 
 
